@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-In this GitHub profile you will find:
+🔭 In this GitHub profile you will find:
 
 - Lots of tutorials and examples in: Python, PySpark, R, Java and C++
 - You will learn data science and machine learning techniques
