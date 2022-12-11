@@ -4,7 +4,7 @@
 
 - Lots of tutorials and examples in: Python, PySpark, R, Java and C++
 - You will learn data science and machine learning techniques
-- You can learn the basics of creating Docker images or download my Python images from Docker Hub
+- You can learn the basics of creating Docker images or download my Python images from [Docker Hub](https://hub.docker.com/u/kriss024)
 
 ✉️ Contact:
 
@@ -12,7 +12,7 @@
 
 [krzysztof.bruszewski{at}gmail.com](krzysztof.bruszewski@gmail.com)
 
-Enjoy!
+Enjoy!😊
 
 
 <!--
