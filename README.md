@@ -1,4 +1,4 @@
-### Hello folks 👋
+### Hi folks 👋
 
 In this GitHub profile you will find:
 
