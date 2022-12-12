@@ -3,8 +3,9 @@
 🔭 In this GitHub profile you will find:
 
 - Lots of tutorials and examples in: Python, PySpark, R, Java and C++
-- You will learn data science and machine learning techniques
+- Programing languages, data science and machine learning techniques
 - You can learn the basics of creating Docker images or download my Python images from [Docker Hub](https://hub.docker.com/u/kriss024)
+- This is the best place if you study or look for solutions to your difficult homework 😬
 
 ✉️ Contact:
 
