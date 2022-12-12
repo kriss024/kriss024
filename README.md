@@ -9,9 +9,8 @@
 
 ✉️ Contact:
 
-[![linkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630/?originalSubdomain=pl)
-
-[krzysztof.bruszewski{at}gmail.com](krzysztof.bruszewski@gmail.com)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krzysztof.bruszewski@gmail.com)
 
 Enjoy!😊
 
