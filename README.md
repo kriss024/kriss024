@@ -2,17 +2,18 @@
 
 🔭 In this GitHub profile you will find:
 
-- Lots of tutorials and examples in: Python, PySpark, R, Java and C++
-- Programing languages, data science and machine learning techniques
+- Lots of tutorials and examples in: Python, Spark, R, Java, C++, SQL on Oracle and Hive
+- Programing languages, Data Science, Machine Learning and Big Data technologies 🌱
+- Linux administration and many useful Bash commands 💪
 - You can learn the basics of creating Docker images or download my Python images from [Docker Hub](https://hub.docker.com/u/kriss024)
-- This is the best place if you study or look for solutions to your difficult homework 😬
+- This is the best place if you study or look for solutions to your difficult homework 💥
 
 ✉️ Contact:
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krzysztof.bruszewski@gmail.com)
 
-Enjoy!😊
+Enjoy!😬
 
 
 <!--
