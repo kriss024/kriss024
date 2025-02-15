@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-🔭 In this GitHub profile you will find:
+🔭 In my GitHub profile you will find:
 
 - Lots of tutorials and examples in: Python, Spark, R, Java, C++, SQL on Oracle and Hive
 - Programing languages, Data Science, Machine Learning and Big Data technologies 🌱
@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krzysztof.bruszewski@gmail.com)
 [![Buymeacoffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/krzysztofbh)
 
-Enjoy!😬
+Enjoy!👌
 
 
 <!--
