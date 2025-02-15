@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-🔭 In my GitHub profile you will find:
+🔭 In my profile you will find:
 
 - Lots of tutorials and examples in: Python, Spark, R, Java, C++, SQL on Oracle and Hive
 - Programing languages, Data Science, Machine Learning and Big Data technologies 🌱
