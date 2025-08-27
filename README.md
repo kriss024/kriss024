@@ -8,7 +8,7 @@
 - You can learn the basics of creating Docker images or download my Python images from [Docker Hub](https://hub.docker.com/u/kriss024)
 - This is the best place if you study or look for solutions to your difficult homework or at work 💥
 
-✉️ Contact and support:
+✉️ Contact and support🔥
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:krzysztof.bruszewski@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630)
