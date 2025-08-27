@@ -10,10 +10,10 @@
 
 ✉️ Contact:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krzysztof.bruszewski@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:krzysztof.bruszewski@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630)
-[![Gravatar Badge](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge)](https://gravatar.com/kriss024)
-[![Buymeacoffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/krzysztofbh)
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge)](https://gravatar.com/kriss024)
+[![Buymeacoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://buymeacoffee.com/krzysztofbh)
 
 Enjoy!👌
 
