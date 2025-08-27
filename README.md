@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:krzysztof.bruszewski@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-bruszewski-52457630)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge)](https://gravatar.com/kriss024)
-[![PayPal](https://img.shields.io/badge/PayPal-002991?logo=paypal&logoColor=fff&style=for-the-badge)](www.paypal.com/paypalme/kriss024)
+[![PayPal](https://img.shields.io/badge/PayPal-002991?logo=paypal&logoColor=fff&style=for-the-badge)](https://www.paypal.com/paypalme/kriss024)
 [![Buymeacoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://buymeacoffee.com/krzysztofbh)
 
 Enjoy!👌
