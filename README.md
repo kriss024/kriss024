@@ -2,10 +2,11 @@
 
 🔭 In my profile you will find:
 
-- Lots of tutorials and examples in: Python, Spark, R, Java, C++, Node.JS, SQL for Oracle and Hive databases
+- Lots of tutorials and examples in: Python, Spark, R, Java, C++, Node.JS and SQL for Oracle and Hive databases
 - Programing languages, Data Science, Machine Learning and Big Data technologies 🌱
 - Linux administration and many useful Bash commands 💪
 - You can learn the basics of creating Docker images or download my Python images from [Docker Hub](https://hub.docker.com/u/kriss024)
+- Building credit scoring models 💬
 - This is the best place if you study or look for solutions to your difficult homework or at work 💥
 
 ✉️ Contact and support🔥
