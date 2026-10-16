@@ -3,7 +3,7 @@
 🔭 In my profile you will find:
 
 - Lots of tutorials and examples in: Python, Spark, R, Java, C++, Node.JS and SQL for Oracle and Hive databases
-- Programing languages, Data Science, Machine Learning and Big Data technologies 🌱
+- Programing languages (Python/Spark/R), Data Science, Machine Learning and Big Data technologies 🌱
 - Linux administration and many useful Bash commands 💪
 - You can learn the basics of creating Docker images or use my images from [Docker Hub](https://hub.docker.com/u/kriss024)
 - Building and automation of credit scoring models (CS-AUT) ⚡
